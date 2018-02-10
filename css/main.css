@@ -1,0 +1,41 @@
+ul{
+	background-color: /*#2BA8E0*/tomato;
+	margin: 50px;
+	padding: 10px;
+	border-color: tomato;
+}
+li{
+	background-color: white;
+	color: blue;
+	display: inline-block;
+	padding:33px;
+	margin: 120px;
+	border-color: tomato;
+	/*text-align: center;*/
+}
+.box{
+	display: inline-block;
+	width:40%;
+}
+img{
+	/*max-width: 200px;*/
+	max-height: 250px;
+	min-height: 100px;
+	/*object-fit:cover or contain or */
+	object-position: 30%;
+	padding: 10px;
+	margin: 0;
+	border: 20px;
+}
+.box.chocolate {
+	background-color: #2BA8E0;
+	padding:;
+	margin:;
+
+}
+.box.cherries {
+	background-color: #EE6526;
+}
+body {
+	text-align: center
+}
