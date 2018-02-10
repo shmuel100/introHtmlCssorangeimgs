@@ -3,13 +3,14 @@ ul{
 	margin: 50px;
 	padding: 10px;
 	border-color: tomato;
+	text-align: center;
 }
 li{
 	background-color: white;
 	color: blue;
 	display: inline-block;
 	padding:33px;
-	margin: 120px;
+	margin: 20px;
 	border-color: tomato;
 	/*text-align: center;*/
 }
